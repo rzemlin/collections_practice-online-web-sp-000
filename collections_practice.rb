@@ -38,3 +38,6 @@ def sum_array(array)
   sum + num
  end
 end
+
+def add_s(array)
+  
